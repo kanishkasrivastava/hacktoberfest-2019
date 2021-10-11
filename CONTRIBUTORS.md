@@ -53,6 +53,10 @@
 - Bio: Back-end developer
 - GitHub: [Mulubwa17] (https://github.com/Mulubwa17)
 
+#### Name:Kanishka Srivastava
+- Place: Jharkhand, India
+- Bio:First year student
+- GitHub: [kanishkasrivastava] (https://github.com/kanishkasrivastava)
 
 #### Name: [Satyajeet Patnayak](https://github.com/satyaa1996)
 - Place: Bhubaneswar, Odisha
